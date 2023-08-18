@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm nairam</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nairamcode&label=Profile%20views&color=0e75b6&style=flat" alt="nairamcode" /> </p>
 <h2 align="left">Ideas to make:</h2>
 <p> 1. UNO (the card game)</p>
 <p> 2. Simple Text-Based idle game</p>
