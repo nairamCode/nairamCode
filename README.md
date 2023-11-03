@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm nairam</h1>
 
 # [Current Project](https://github.com/nairamCode/Calculator-Addons)
-I am currently coding addons for my school calculator like a converter.
+doing nothing
 
 # Ideas to make
 * UNO (the card game)
