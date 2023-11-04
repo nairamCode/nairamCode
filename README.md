@@ -4,7 +4,7 @@
 doing nothing
 
 # Ideas to make
-* 
+* Blackjack for the calculator
 * UNO (the card game)
 * Simple Text-Based idle game
 * Calculator
