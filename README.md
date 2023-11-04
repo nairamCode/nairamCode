@@ -4,6 +4,7 @@
 doing nothing
 
 # Ideas to make
+* 
 * UNO (the card game)
 * Simple Text-Based idle game
 * Calculator
